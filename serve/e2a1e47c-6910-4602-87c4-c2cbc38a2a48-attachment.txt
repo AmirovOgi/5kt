@@ -1,0 +1,158 @@
+[32mINFO    [0m test_1:conftest.py:30 ===> Test test_1 started at 2024-05-29 15:56:30.783730
+[32mINFO    [0m test_1:conftest.py:48 Browser chrome started
+[32mINFO    [0m test_1:base_page.py:12 reg_page initialized
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-username')
+[32mINFO    [0m test_1:base_page.py:56 reg_page: Cleared and wrote 'user' to 'INPUT_LOGIN'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-password')
+[32mINFO    [0m test_1:base_page.py:56 reg_page: Cleared and wrote 'bitnami' to 'INPUT_PASSWORD'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[3]/button[1]")
+[32mINFO    [0m test_1:base_page.py:38 reg_page: Clicked on 'NEXT'
+[32mINFO    [0m test_1:base_page.py:12 main_admin_page initialized
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#menu-catalog')
+[32mINFO    [0m test_1:base_page.py:38 main_admin_page: Clicked on 'MENU_CATALOG'
+[32mINFO    [0m test_1:base_page.py:12 main_admin_page initialized
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'Categories')
+[32mINFO    [0m test_1:base_page.py:38 main_admin_page: Clicked on 'LI_CATEGORIES'
+[32mINFO    [0m test_1:base_page.py:12 categories_page initialized
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-name-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-name-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'Devices' to 'INPUT_CATEGORY_NAME'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-title-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-title-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'META_TAG_TITLEDevices' to 'INPUT_META_TAG_TITLE'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-description-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-description-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONDevices' to 'INPUT_META_TAG_DESCRIPTION'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-keyword-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-keyword-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'META_TAG_KEYWORDSDevices' to 'INPUT_META_TAG_KEYWORDS'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'Data')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'LI_DATA'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-parent')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'SELECT_PARENT'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('partial link text', '--- None -')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'OPTION_PARENT'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'SEO')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'LI_SEO'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-keyword-0-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_KEYWORD'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-keyword-0-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'devicestest' to 'INPUT_KEYWORD'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'LI_DESIGN'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'Categories')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'Main_Page'
+[32mINFO    [0m test_1:base_page.py:12 categories_page initialized
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-name-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-name-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'mouse' to 'INPUT_CATEGORY_NAME'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-title-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-title-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'META_TAG_TITLEmouse' to 'INPUT_META_TAG_TITLE'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-description-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-description-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONmouse' to 'INPUT_META_TAG_DESCRIPTION'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-keyword-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-keyword-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'mousessmouse' to 'INPUT_META_TAG_KEYWORDS'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'Data')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'LI_DATA'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-parent')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'SELECT_PARENT'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-parent')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'Devices')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on '('link text', 'Devices')'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'SEO')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'LI_SEO'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-keyword-0-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_KEYWORD'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-keyword-0-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'mousetest' to 'INPUT_KEYWORD'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'LI_DESIGN'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'Categories')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'Main_Page'
+[32mINFO    [0m test_1:base_page.py:12 categories_page initialized
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-name-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-name-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'keyboard' to 'INPUT_CATEGORY_NAME'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-title-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-title-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'META_TAG_TITLEkeyboard' to 'INPUT_META_TAG_TITLE'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-description-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-description-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONkeyboard' to 'INPUT_META_TAG_DESCRIPTION'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-keyword-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-meta-keyword-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'keyboarddkeyboard' to 'INPUT_META_TAG_KEYWORDS'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'Data')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'LI_DATA'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-parent')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'SELECT_PARENT'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-parent')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'Devices')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on '('link text', 'Devices')'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'SEO')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'LI_SEO'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-keyword-0-1')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'INPUT_KEYWORD'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', '#input-keyword-0-1')
+[32mINFO    [0m test_1:base_page.py:56 categories_page: Cleared and wrote 'keyboardtest' to 'INPUT_KEYWORD'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'LI_DESIGN'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:categories_page.py:29 Press 'Down'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+[32mINFO    [0m test_1:base_page.py:25 Found element ('link text', 'Categories')
+[32mINFO    [0m test_1:base_page.py:38 categories_page: Clicked on 'Main_Page'
+[32mINFO    [0m test_1:conftest.py:52 ===> Test test_1 finished at 2024-05-29 15:56:45.819853

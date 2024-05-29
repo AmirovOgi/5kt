@@ -1,0 +1,15 @@
+[32mINFO    [0m test_5:conftest.py:30 ===> Test test_5 started at 2024-05-29 15:57:31.992039
+[32mINFO    [0m test_5:conftest.py:48 Browser chrome started
+[32mINFO    [0m test_5:base_page.py:12 main_page initialized
+[32mINFO    [0m test_5:base_page.py:25 Found element ('css selector', 'input.form-control.form-control-lg')
+[32mINFO    [0m test_5:base_page.py:38 main_page: Clicked on 'search'
+[32mINFO    [0m test_5:base_page.py:25 Found element ('css selector', 'input.form-control.form-control-lg')
+[32mINFO    [0m test_5:base_page.py:56 main_page: Cleared and wrote 'mouse' to 'search'
+[32mINFO    [0m test_5:base_page.py:12 main_page initialized
+[32mINFO    [0m test_5:base_page.py:12 main_page initialized
+[32mINFO    [0m test_5:base_page.py:25 Found element ('css selector', 'input.form-control.form-control-lg')
+[32mINFO    [0m test_5:base_page.py:38 main_page: Clicked on 'search'
+[32mINFO    [0m test_5:base_page.py:25 Found element ('css selector', 'input.form-control.form-control-lg')
+[32mINFO    [0m test_5:base_page.py:56 main_page: Cleared and wrote 'keyboard' to 'search'
+[32mINFO    [0m test_5:base_page.py:12 main_page initialized
+[32mINFO    [0m test_5:conftest.py:52 ===> Test test_5 finished at 2024-05-29 15:57:37.899524

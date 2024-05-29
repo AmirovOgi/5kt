@@ -1,0 +1,50 @@
+[32mINFO    [0m test_4:conftest.py:30 ===> Test test_4 started at 2024-05-29 15:57:17.734942
+[32mINFO    [0m test_4:conftest.py:48 Browser chrome started
+[32mINFO    [0m test_4:base_page.py:12 reg_page initialized
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-username')
+[32mINFO    [0m test_4:base_page.py:56 reg_page: Cleared and wrote 'user' to 'INPUT_LOGIN'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-password')
+[32mINFO    [0m test_4:base_page.py:56 reg_page: Cleared and wrote 'bitnami' to 'INPUT_PASSWORD'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[3]/button[1]")
+[32mINFO    [0m test_4:base_page.py:38 reg_page: Clicked on 'NEXT'
+[32mINFO    [0m test_4:base_page.py:12 main_admin_page initialized
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#menu-catalog')
+[32mINFO    [0m test_4:base_page.py:38 main_admin_page: Clicked on 'MENU_CATALOG'
+[32mINFO    [0m test_4:base_page.py:12 main_admin_page initialized
+[32mINFO    [0m test_4:base_page.py:25 Found element ('link text', 'Products')
+[32mINFO    [0m test_4:base_page.py:38 main_admin_page: Clicked on 'LI_PRODUCTS'
+[32mINFO    [0m test_4:base_page.py:12 product_page initialized
+[32mINFO    [0m test_4:base_page.py:25 Found element ('link text', 'Products')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'MAIN_PAGE_PRODUCT'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-name')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'INPUT_PRODUCT_NAME'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-name')
+[32mINFO    [0m test_4:base_page.py:56 product_page: Cleared and wrote 'Mouse' to 'INPUT_PRODUCT_NAME'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-model')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'INPUT_MODEL'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-model')
+[32mINFO    [0m test_4:base_page.py:56 product_page: Cleared and wrote 'model_mouse' to 'INPUT_MODEL'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#button-filter')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'BUTTON_FILTER'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('xpath', '//tbody/tr[1]/td[1]/input[1]')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'CHECKBOX'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[1]/div[1]/div[1]/button[3]")
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'BUTTON_DELETE'
+[32mINFO    [0m test_4:base_page.py:12 product_page initialized
+[32mINFO    [0m test_4:base_page.py:25 Found element ('link text', 'Products')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'MAIN_PAGE_PRODUCT'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-name')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'INPUT_PRODUCT_NAME'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-name')
+[32mINFO    [0m test_4:base_page.py:56 product_page: Cleared and wrote 'Keyboard' to 'INPUT_PRODUCT_NAME'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-model')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'INPUT_MODEL'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#input-model')
+[32mINFO    [0m test_4:base_page.py:56 product_page: Cleared and wrote 'keyboard_model' to 'INPUT_MODEL'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('css selector', '#button-filter')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'BUTTON_FILTER'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('xpath', '//tbody/tr[1]/td[1]/input[1]')
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'CHECKBOX'
+[32mINFO    [0m test_4:base_page.py:25 Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[1]/div[1]/div[1]/button[3]")
+[32mINFO    [0m test_4:base_page.py:38 product_page: Clicked on 'BUTTON_DELETE'
+[32mINFO    [0m test_4:conftest.py:52 ===> Test test_4 finished at 2024-05-29 15:57:27.914043

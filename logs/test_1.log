@@ -1,0 +1,790 @@
+INFO ===> Test test_1 started at 2024-05-28 23:54:48.367825
+INFO Browser chrome started
+INFO reg_page initialized
+INFO Found element ('css selector', '#input-username')
+INFO reg_page: Cleared and wrote 'user' to 'INPUT_LOGIN'
+INFO Found element ('css selector', '#input-password')
+INFO reg_page: Cleared and wrote 'bitnami' to 'INPUT_PASSWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[3]/button[1]")
+INFO reg_page: Clicked on 'NEXT'
+INFO main_admin_page initialized
+INFO Found element ('css selector', '#menu-catalog')
+INFO main_admin_page: Clicked on 'MENU_CATALOG'
+INFO main_admin_page initialized
+INFO Found element ('link text', 'Categories')
+INFO main_admin_page: Clicked on 'LI_CATEGORIES'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'Devices' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEDevices' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONDevices' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'META_TAG_KEYWORDSDevices' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('partial link text', '--- None -')
+INFO categories_page: Clicked on 'OPTION_PARENT'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'devicestest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'mouse' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEmouse' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONmouse' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'mousessmouse' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'mousetest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'keyboard' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEkeyboard' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONkeyboard' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'keyboarddkeyboard' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'keyboardtest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO ===> Test test_1 finished at 2024-05-28 23:55:03.974946
+INFO ===> Test test_1 started at 2024-05-29 15:48:16.759932
+INFO Browser chrome started
+INFO reg_page initialized
+INFO Found element ('css selector', '#input-username')
+INFO reg_page: Cleared and wrote 'user' to 'INPUT_LOGIN'
+INFO Found element ('css selector', '#input-password')
+INFO reg_page: Cleared and wrote 'bitnami' to 'INPUT_PASSWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[3]/button[1]")
+INFO reg_page: Clicked on 'NEXT'
+INFO main_admin_page initialized
+INFO Found element ('css selector', '#menu-catalog')
+INFO main_admin_page: Clicked on 'MENU_CATALOG'
+INFO main_admin_page initialized
+INFO Found element ('link text', 'Categories')
+INFO main_admin_page: Clicked on 'LI_CATEGORIES'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'Devices' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEDevices' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONDevices' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'META_TAG_KEYWORDSDevices' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('partial link text', '--- None -')
+INFO categories_page: Clicked on 'OPTION_PARENT'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'devicestest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'mouse' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEmouse' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONmouse' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'mousessmouse' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'mousetest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'keyboard' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEkeyboard' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONkeyboard' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'keyboarddkeyboard' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'keyboardtest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO ===> Test test_1 finished at 2024-05-29 15:48:35.178577
+INFO ===> Test test_1 started at 2024-05-29 15:52:05.148085
+INFO Browser chrome started
+INFO reg_page initialized
+INFO Found element ('css selector', '#input-username')
+INFO reg_page: Cleared and wrote 'user' to 'INPUT_LOGIN'
+INFO Found element ('css selector', '#input-password')
+INFO reg_page: Cleared and wrote 'bitnami' to 'INPUT_PASSWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[3]/button[1]")
+INFO reg_page: Clicked on 'NEXT'
+INFO main_admin_page initialized
+INFO Found element ('css selector', '#menu-catalog')
+INFO main_admin_page: Clicked on 'MENU_CATALOG'
+INFO main_admin_page initialized
+INFO Found element ('link text', 'Categories')
+INFO main_admin_page: Clicked on 'LI_CATEGORIES'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'Devices' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEDevices' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONDevices' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'META_TAG_KEYWORDSDevices' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('partial link text', '--- None -')
+INFO categories_page: Clicked on 'OPTION_PARENT'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'devicestest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'mouse' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEmouse' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONmouse' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'mousessmouse' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'mousetest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'keyboard' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEkeyboard' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONkeyboard' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'keyboarddkeyboard' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'keyboardtest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO ===> Test test_1 finished at 2024-05-29 15:52:21.274159
+INFO ===> Test test_1 started at 2024-05-29 15:54:32.073112
+INFO Browser chrome started
+INFO reg_page initialized
+INFO Found element ('css selector', '#input-username')
+INFO reg_page: Cleared and wrote 'user' to 'INPUT_LOGIN'
+INFO Found element ('css selector', '#input-password')
+INFO reg_page: Cleared and wrote 'bitnami' to 'INPUT_PASSWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[3]/button[1]")
+INFO reg_page: Clicked on 'NEXT'
+INFO main_admin_page initialized
+INFO Found element ('css selector', '#menu-catalog')
+INFO main_admin_page: Clicked on 'MENU_CATALOG'
+INFO main_admin_page initialized
+INFO Found element ('link text', 'Categories')
+INFO main_admin_page: Clicked on 'LI_CATEGORIES'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'Devices' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEDevices' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONDevices' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'META_TAG_KEYWORDSDevices' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('partial link text', '--- None -')
+INFO categories_page: Clicked on 'OPTION_PARENT'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'devicestest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'mouse' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEmouse' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONmouse' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'mousessmouse' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'mousetest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'keyboard' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEkeyboard' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONkeyboard' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'keyboarddkeyboard' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'keyboardtest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO ===> Test test_1 finished at 2024-05-29 15:54:47.086669
+INFO ===> Test test_1 started at 2024-05-29 15:56:30.783730
+INFO Browser chrome started
+INFO reg_page initialized
+INFO Found element ('css selector', '#input-username')
+INFO reg_page: Cleared and wrote 'user' to 'INPUT_LOGIN'
+INFO Found element ('css selector', '#input-password')
+INFO reg_page: Cleared and wrote 'bitnami' to 'INPUT_PASSWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[3]/button[1]")
+INFO reg_page: Clicked on 'NEXT'
+INFO main_admin_page initialized
+INFO Found element ('css selector', '#menu-catalog')
+INFO main_admin_page: Clicked on 'MENU_CATALOG'
+INFO main_admin_page initialized
+INFO Found element ('link text', 'Categories')
+INFO main_admin_page: Clicked on 'LI_CATEGORIES'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'Devices' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEDevices' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONDevices' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'META_TAG_KEYWORDSDevices' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('partial link text', '--- None -')
+INFO categories_page: Clicked on 'OPTION_PARENT'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'devicestest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'mouse' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEmouse' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONmouse' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'mousessmouse' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'mousetest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO categories_page initialized
+INFO Found element ('css selector', 'a.btn.btn-primary:nth-child(2)')
+INFO categories_page: Clicked on 'BUTTON_ADD_NEW_CATEGORIES'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Clicked on 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-name-1')
+INFO categories_page: Cleared and wrote 'keyboard' to 'INPUT_CATEGORY_NAME'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-title-1')
+INFO categories_page: Cleared and wrote 'META_TAG_TITLEkeyboard' to 'INPUT_META_TAG_TITLE'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-description-1')
+INFO categories_page: Cleared and wrote 'META_TAG_DESCRIPTIONkeyboard' to 'INPUT_META_TAG_DESCRIPTION'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Clicked on 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('css selector', '#input-meta-keyword-1')
+INFO categories_page: Cleared and wrote 'keyboarddkeyboard' to 'INPUT_META_TAG_KEYWORDS'
+INFO Found element ('link text', 'Data')
+INFO categories_page: Clicked on 'LI_DATA'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Clicked on 'SELECT_PARENT'
+INFO Found element ('css selector', '#input-parent')
+INFO categories_page: Cleared and wrote 'Devices' to 'SELECT_PARENT'
+INFO Found element ('link text', 'Devices')
+INFO categories_page: Clicked on '('link text', 'Devices')'
+INFO Found element ('link text', 'SEO')
+INFO categories_page: Clicked on 'LI_SEO'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Clicked on 'INPUT_KEYWORD'
+INFO Found element ('css selector', '#input-keyword-0-1')
+INFO categories_page: Cleared and wrote 'keyboardtest' to 'INPUT_KEYWORD'
+INFO Found element ('xpath', "//body/div[@id='container']/div[@id='content']/div[2]/div[1]/div[2]/form[1]/ul[1]/li[4]/a[1]")
+INFO categories_page: Clicked on 'LI_DESIGN'
+INFO Found element ('xpath', '//tbody/tr[1]/td[2]/select[1]')
+INFO categories_page: Clicked on 'SELECT_LAYOUT_OVERRIDE'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Press 'Down'
+INFO Found element ('css selector', 'button.btn.btn-primary:nth-child(1)')
+INFO categories_page: Clicked on 'BUTTON_SAVE_CATEGORY'
+INFO Found element ('link text', 'Categories')
+INFO categories_page: Clicked on 'Main_Page'
+INFO ===> Test test_1 finished at 2024-05-29 15:56:45.819853

@@ -1,0 +1,53 @@
+INFO ===> Test test_5 started at 2024-05-28 23:57:23.820422
+INFO Browser chrome started
+INFO main_page initialized
+INFO ===> Test test_5 finished at 2024-05-28 23:57:28.708858
+INFO ===> Test test_5 started at 2024-05-29 15:50:03.116383
+INFO Browser chrome started
+INFO main_page initialized
+INFO ===> Test test_5 finished at 2024-05-29 15:50:08.006907
+INFO ===> Test test_5 started at 2024-05-29 15:53:27.922040
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Clicked on 'search'
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Cleared and wrote 'mouse' to 'search'
+INFO main_page initialized
+INFO main_page initialized
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Clicked on 'search'
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Cleared and wrote 'keyboard' to 'search'
+INFO main_page initialized
+INFO ===> Test test_5 finished at 2024-05-29 15:53:33.525546
+INFO ===> Test test_5 started at 2024-05-29 15:55:54.779028
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Clicked on 'search'
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Cleared and wrote 'mouse' to 'search'
+INFO main_page initialized
+INFO main_page initialized
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Clicked on 'search'
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Cleared and wrote 'keyboard' to 'search'
+INFO main_page initialized
+INFO ===> Test test_5 finished at 2024-05-29 15:56:00.336222
+INFO ===> Test test_5 started at 2024-05-29 15:57:31.992039
+INFO Browser chrome started
+INFO main_page initialized
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Clicked on 'search'
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Cleared and wrote 'mouse' to 'search'
+INFO main_page initialized
+INFO main_page initialized
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Clicked on 'search'
+INFO Found element ('css selector', 'input.form-control.form-control-lg')
+INFO main_page: Cleared and wrote 'keyboard' to 'search'
+INFO main_page initialized
+INFO ===> Test test_5 finished at 2024-05-29 15:57:37.899524
